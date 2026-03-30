@@ -1,0 +1,29 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Gradle files
+.gradle/
+build/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+
+# Signing configs
+*.jks
+*.keystore
+
+# Lint
+lint/
+
+# Generated
+gen/
+out/

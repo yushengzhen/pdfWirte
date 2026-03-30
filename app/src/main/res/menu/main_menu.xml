@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_undo"
+        android:title="@string/menu_undo"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_redo"
+        android:title="@string/menu_redo"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_red"
+        android:title="@string/menu_red"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_blue"
+        android:title="@string/menu_blue"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_thin"
+        android:title="@string/menu_thin"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_thick"
+        android:title="@string/menu_thick"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_save"
+        android:title="@string/menu_save"
+        app:showAsAction="ifRoom" />
+
+</menu>
